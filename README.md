@@ -37,7 +37,7 @@
 <p align="left">
 
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/FantasyBd1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/TasifKm"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.youtube.com/channel/UCP_TidSABQsMb8NjlpPB6LA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
   </p>
   
